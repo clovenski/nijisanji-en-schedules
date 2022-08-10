@@ -1,4 +1,4 @@
-# Nijisanji EN Schedules
+# [Nijisanji EN Schedules](https://nijisanji-en-schedules.com/)
 
 Single page to view some of the recent, current, and upcoming streams of the Nijisanji EN livers.
 
