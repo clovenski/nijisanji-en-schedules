@@ -7,7 +7,7 @@ Single page to view some of the recent, current, and upcoming streams of the Nij
 Stream schedules will wrap around the appropriate timeslots on the page.
 You can hover over the boxes to preview the stream. Clicking on it will open a popup with more info and a link to the actual stream.
 
-## /!\ Notice /!\
+## ⚠️ Notice ⚠️
 
 This application is more of a personal project for me, so don't expect frequent updates.
 
@@ -32,3 +32,7 @@ Is it possible to add other Nijisanji livers on here?
 
 Are you ever going to open-source this application?
 > I can consider it if there's enough demand. I'd only open-source the front-end portion though.
+
+## Privacy
+
+You can review the privacy policy [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/PrivacyPolicy.md).
