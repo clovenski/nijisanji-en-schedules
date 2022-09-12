@@ -36,6 +36,10 @@ Is it possible to add other Nijisanji livers on here?
 Are you ever going to open-source this application?
 > I can consider it if there's enough demand. I'd only open-source the front-end portion though.
 
+## Changelog
+
+You can view the changes made to this application [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/CHANGELOG.md).
+
 ## Privacy
 
 You can review the privacy policy [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/PrivacyPolicy.md).
