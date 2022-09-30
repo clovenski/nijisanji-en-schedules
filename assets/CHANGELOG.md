@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v0.1.3] - 2022-09-29
+### Added
+- Label at the top to show what timezone the dates were converted to
+
+### Changed
+- Filter is no longer sticky at the top
+- FAQ
+
 ## [v0.1.2] - 2022-09-11
 ### Added
 - Changelog

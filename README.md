@@ -24,14 +24,17 @@ Why don't I see all the schedules?
 How accurate is this information?
 > The information gets updated every 5 minutes.
 
+Are the dates converted to my local timezone?
+> Yes, there is a label at the top to show the timezone they converted to.
+
 Why don't I see the preview of the stream when I hover over the box?
-> The preview on the right won't show if the window is too small. Try widening the window, or otherwise you can always click on the box to open a popup to view the stream information.
+> Note this only applies to the timeslot view. The preview on the right won't show if the window is too small. Try widening the window, or otherwise you can always click on the box to open a popup to view the stream information.
 
 Will new EN livers get added here?
 > Yes, they will get added once their channel gets created.
 
 Is it possible to add other Nijisanji livers on here?
-> It's possible, but there needs to be enough demand.
+> It's possible, but there needs to be enough demand. Since this application is specific to EN, there would need to be a *big* enough demand for changing it to not be EN-specific.
 
 Are you ever going to open-source this application?
 > I can consider it if there's enough demand. I'd only open-source the front-end portion though.
