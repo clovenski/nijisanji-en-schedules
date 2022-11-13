@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v0.1.4] - 2022-11-12
+### Changed
+- Thumbnails to not show black bars on the top and bottom
+- Default to grid view when on desktop
+- Readme; FAQ and usage sections
+
+### Added
+- Label to say 'no streams found' when there is nothing to show
+
 ## [v0.1.3] - 2022-09-29
 ### Added
 - Label at the top to show what timezone the dates were converted to

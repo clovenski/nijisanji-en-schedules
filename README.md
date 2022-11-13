@@ -4,6 +4,12 @@ Single page to view some of the recent, current, and upcoming streams of the Nij
 
 ## Usage
 
+The scheduled streams for that day will show up on the page.
+Click on the streams to go directly to the stream on YouTube.
+You can change to a different date on the top.
+There is also a filter dropdown if you'd like to filter to a specific streamer.
+
+Click on the top-right button to switch to *timeslot view*. 
 Stream schedules will wrap around the appropriate timeslots on the page.
 You can hover over the boxes to preview the stream. Clicking on it will open a popup with more info and a link to the actual stream.
 
@@ -19,10 +25,16 @@ Who are you?
 > Just a fellow Nijisanji fan!
 
 Why don't I see all the schedules?
-> This app will only show whatever streams that they put up on YouTube. So for example if they have an upcoming stream 5 days from now but don't have the *waiting room* up on YouTube, then it won't show here.
+> This app will only show whatever streams that they put up on YouTube. So for example if they have an upcoming stream 5 days from now but don't have the *waiting room* up on YouTube, then it won't show here. Also, YouTube policy restricts from keeping a *complete* history; that's why really only yesteday, today, and tomorrow schedules are shown.
+
+Does this show members-only videos?
+> No.
 
 How accurate is this information?
 > The information gets updated every 5 minutes.
+
+Why do streams sometimes disappear?
+> The source (YouTube) to get the stream information is not exactly stable. The stream should show up again on the next refresh interval / update.
 
 Are the dates converted to my local timezone?
 > Yes, there is a label at the top to show the timezone they converted to.
