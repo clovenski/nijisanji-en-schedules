@@ -25,7 +25,7 @@ Who are you?
 > Just a fellow Nijisanji fan!
 
 Why don't I see all the schedules?
-> This app will only show whatever streams that they put up on YouTube. So for example if they have an upcoming stream 5 days from now but don't have the *waiting room* up on YouTube, then it won't show here. Also, YouTube policy restricts from keeping a *complete* history; that's why really only yesteday, today, and tomorrow schedules are shown.
+> This app will only show whatever streams that they put up on YouTube. So for example if they have an upcoming stream 5 days from now but don't have the *waiting room* up on YouTube, then it won't show here.
 
 Does this show members-only videos?
 > No.

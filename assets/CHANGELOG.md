@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v0.2.0] - 2022-11-24
+### Added
+- More past streams are shown now
+
 ## [v0.1.4] - 2022-11-12
 ### Changed
 - Thumbnails to not show black bars on the top and bottom
