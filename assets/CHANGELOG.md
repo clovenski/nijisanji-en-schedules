@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.3.1] - 2022-12-22
+
+### Added
+
+- Home button as top-left title
+- Inactivity timer to stop auto-refresh
+- Divider between stream title and stream info
+
+### Changed
+
+- Minimum height for stream cards to align them better
+
 ## [v0.3.0] - 2022-12-05
 
 ### Added
