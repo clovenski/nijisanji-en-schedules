@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.3.2] - 2022-12-24
+
+### Changed
+
+- Site to fetch stream schedules from global CDN
+
 ## [v0.3.1] - 2022-12-22
 
 ### Added
