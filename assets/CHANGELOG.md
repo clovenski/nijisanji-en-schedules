@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.3.3] - 2022-12-24
+
+### Added
+
+- Lightgray border between sticky legend and main content
+
+### Changed
+
+- Filters dropdown to be a popup instead
+- Datepicker component to not be sticky
+
 ## [v0.3.2] - 2022-12-24
 
 ### Changed
