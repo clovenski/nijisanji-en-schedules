@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.4.0] - 2022-12-27
+
+### Added
+
+- Button to scroll back to top of page
+- Close button for the timeslow view preview popups
+
+### Changed
+
+- Filters popup to not show empty whitespace on long screens
+- Timeslot view preview popups don't auto focus anymore
+
 ## [v0.3.3] - 2022-12-24
 
 ### Added
