@@ -9,7 +9,7 @@ Click on the streams to go directly to the stream on YouTube.
 You can change to a different date on the top.
 There is also a filter dropdown if you'd like to filter to a specific streamer.
 
-Click on the top-right button to switch to *timeslot view*. 
+Click on the top-right button to switch to *timeslot view*.
 Stream schedules will wrap around the appropriate timeslots on the page.
 You can hover over the boxes to preview the stream. Clicking on it will open a popup with more info and a link to the actual stream.
 
@@ -58,3 +58,7 @@ You can view the changes made to this application [here](https://github.com/clov
 ## Privacy
 
 You can review the privacy policy [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/PrivacyPolicy.md).
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W34N0W3)
