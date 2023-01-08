@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.5.0] - 2023-01-08
+
+### Added
+
+- Implemented feature [#1](https://github.com/clovenski/nijisanji-en-schedules/issues/1)
+  - Public .ics files to synchronize schedule to user's own calendar app
+  - Instructions to subscribe to .ics files on Google Calendar
+
 ## [v0.4.0] - 2022-12-27
 
 ### Added

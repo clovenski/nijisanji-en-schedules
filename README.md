@@ -39,6 +39,9 @@ Why do streams sometimes disappear?
 Are the dates converted to my local timezone?
 > Yes, there is a label at the top to show the timezone they converted to.
 
+Is there a way to show the schedule on my Google calendar?
+> Yes! Since v0.5.0 there are public .ics files for you to subscribe to in Google Calendar. See [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/gcal/README.md) for more information.
+
 Why don't I see the preview of the stream when I hover over the box?
 > Note this only applies to the timeslot view. The preview on the right won't show if the window is too small. Try widening the window, or otherwise you can always click on the box to open a popup to view the stream information.
 
