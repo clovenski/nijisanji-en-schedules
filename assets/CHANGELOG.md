@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.5.1] - 2023-01-23
+
+### Changed
+
+- Footer
+
 ## [v0.5.0] - 2023-01-08
 
 ### Added
