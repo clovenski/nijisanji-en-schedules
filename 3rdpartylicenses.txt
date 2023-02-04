@@ -66,6 +66,9 @@ MIT
 @angular/router
 MIT
 
+@nicky-lenaers/ngx-scroll-to
+MIT
+
 cookieconsent
 MIT
 The MIT License (MIT)

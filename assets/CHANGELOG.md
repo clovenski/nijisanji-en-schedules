@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.6.0] - 2023-02-04
+
+### Added
+
+- Button to scroll to currently live streams
+
+### Changed
+
+- Version to 1.x
+- Tooltips to be capitalized (Next day, Previous day, Close)
+
 ## [v0.5.1] - 2023-01-23
 
 ### Changed
