@@ -206,12 +206,6 @@ https://calendar.google.com/calendar/ical/f70c0363505b9ddfe990e57ae597d87958bea5
 
 ---
 
-Zaion LanZa:
-
-```
-https://calendar.google.com/calendar/ical/d4696d919a26bba63672e7b50a68f45088ce619902d4fa8748baf98f349cb28e%40group.calendar.google.com/public/basic.ics
-```
-
 Doppio Dropscythe:
 
 ```

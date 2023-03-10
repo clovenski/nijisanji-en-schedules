@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.6.1] - 2023-03-10
+
+### Removed
+
+- Zaion's channel
+
 ## [v1.6.0] - 2023-02-04
 
 ### Added
