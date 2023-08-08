@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.7.3] - 2023-08-07
+
+### Added
+
+- Stream title as tooltip on card's title section
+
+### Changed
+
+- Stream titles are truncated as necessary
+
 ## [v1.7.2] - 2023-07-08
 
 ### Removed
