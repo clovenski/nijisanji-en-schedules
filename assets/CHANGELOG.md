@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.7.4] - 2023-08-27
+
+### Removed
+
+- Mysta's Google calendar
+
 ## [v1.7.3] - 2023-08-07
 
 ### Added
