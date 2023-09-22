@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.7.6] - 2023-09-22
+
+### Changed
+
+- Adapted to new schema from backend
+
 ## [v1.7.5] - 2023-09-13
 
 ### Added
