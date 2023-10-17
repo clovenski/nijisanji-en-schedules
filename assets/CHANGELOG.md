@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.7.7] - 2023-10-16
+
+### Changed
+
+- Notice to indicate site deprecation
+
 ## [v1.7.6] - 2023-09-22
 
 ### Changed
