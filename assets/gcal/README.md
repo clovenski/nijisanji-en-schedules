@@ -245,3 +245,25 @@ Yu Q. Wilson:
 ```
 https://calendar.google.com/calendar/ical/f4ad61c3c1be542176c2f1afe18b9b98f2e16ee7d82372e7818cfda171091821%40group.calendar.google.com/public/basic.ics
 ```
+
+### TTT
+
+---
+
+Kunai Nakasato:
+
+```
+https://calendar.google.com/calendar/ical/a373f6ae1e329bad2d5a33d25660e2c8cd3ab6d2fe780ef60251f200ece8b7b5%40group.calendar.google.com/public/basic.ics
+```
+
+Victoria Brightshield
+
+```
+https://calendar.google.com/calendar/ical/20700bd893f8d9c30687263725dd13195c74069efd704f2d23d9bc8c6703f905%40group.calendar.google.com/public/basic.ics
+```
+
+Claude Clawmark:
+
+```
+https://calendar.google.com/calendar/ical/c36ab83089265778af8422d0f19d6b0e97400ecacaa40dc643de25c72e066fea%40group.calendar.google.com/public/basic.ics
+```
